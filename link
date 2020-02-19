@@ -1,2 +1,0 @@
-LoginLink.createOnAccount("{{CONNECTED_STRIPE_ACCOUNT_ID}}");
-
